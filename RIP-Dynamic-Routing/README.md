@@ -33,3 +33,8 @@ The network consists of:
 
 ## Project File
 The `RIP-Dynamic-Routing-Lab.pkt` file contains the Cisco Packet Tracer network configuration.
+
+
+## Network Topology
+
+![RIP Network Topology](RIP-Network-Topology.png)
